@@ -4,4 +4,4 @@ The signals are a method of communication b/w processes. When a process receives
 # Different types of signals
 SIGINT SIGTERM SIGQUIT SIGKILL
 
-#Related: https://baeldung.com/linux/sigint-and-other-termination-signals
+# Related: https://baeldung.com/linux/sigint-and-other-termination-signals
