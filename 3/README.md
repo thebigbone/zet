@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Very cool file browsing for linux written in golang.
 
 A clone of ranger, which was written in python. Does image, text, pdf, etc previews properly. 
